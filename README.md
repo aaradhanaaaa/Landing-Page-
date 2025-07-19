@@ -1,27 +1,53 @@
-# Landing Page
-📄 Project Description
-This is a personal landing page designed for showcasing my portfolio, skills, experience, and services.
-The page includes interactive sections like About Me, Skills, Services, Projects, and Contact, all wrapped in a modern, responsive layout. 
-It's perfect for making a strong online presence as a frontend developer.
+# 🌐 Landing Page
 
-🚀 How to Open This Project
-Download the files (landing page.html and landing page.css) into the same folder.
+---
 
-Double-click on landing page.html
-or
-Right-click → Open with → Your browser (e.g., Chrome, Edge, Firefox).
+## 📄 Project Description
 
-Ensure the landing page.css is in the same folder so styles load correctly.
+This is a **personal landing page** designed to showcase my **portfolio, skills, experience, and services**.  
+It features interactive sections such as:
 
-📌 Note: For full functionality (images, resume links), make sure to update the file paths or host the resources online.
+🧑‍💼 About Me  
+💼 Services  
+🛠 Skills  
+📚 Experience  
+🎨 Projects  
+📬 Contact
 
-🧰 Technologies Used
-HTML5 
+All sections are wrapped in a **clean, responsive, and modern design**—perfect for building a strong online presence as a frontend developer.
 
-CSS3 
+---
 
-Google Fonts 
+## 🚀 How to Open This Project
 
-Responsive Design 
+1. **Download** both files:
+   - `landing page.html`
+   - `landing page.css`
 
-UI Animations
+2. Place them in the **same folder**.
+
+3. Open the project:
+   - Double-click `landing page.html`  
+   **or**
+   - Right-click → **Open with** → Choose your browser (e.g., Chrome, Edge, Firefox)
+
+4. ✅ Ensure `landing page.css` is in the **same directory** to apply styling.
+
+> 📌 **Note**: For full functionality (like images and resume links), please update local file paths or host resources online.
+
+---
+
+## 🧰 Technologies Used
+
+- ✅ **HTML5** – Structure and content  
+- 🎨 **CSS3** – Styling, layout, and animations  
+- 🔤 **Google Fonts** – Clean typography using `Segoe UI`  
+- 📱 **Responsive Design** – Mobile-friendly with Flexbox & Media Queries  
+- ✨ **UI Animations** – Gradient transitions, hover effects, and modern visuals
+
+---
+
+👩‍💻 **Created by Aradhana Rani**  
+📧 [aradhana.rani.738@gmail.com](mailto:aradhana.rani.738@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/aradhana-rani-174416295/)
+
